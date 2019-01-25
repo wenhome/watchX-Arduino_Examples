@@ -1,0 +1,9 @@
+MPU Motion
+https://github.com/jarzebski/Arduino-MPU6050
+Change:
+#define MPU6050_ADDRESS             (0x68)
+to
+#define MPU6050_ADDRESS             (0x69)
+
+MPUDMP6 - MPURAW
+https://github.com/jrowberg/i2cdevlib/tree/master/Arduino/MPU6050

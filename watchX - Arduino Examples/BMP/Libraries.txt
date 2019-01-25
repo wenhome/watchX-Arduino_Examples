@@ -1,0 +1,7 @@
+https://github.com/adafruit/Adafruit_BMP280_Library
+https://github.com/adafruit/Adafruit_Sensor
+
+Change Adafruit_BMP280.h
+#define BMP280_ADDRESS                (0x77)
+to
+#define BMP280_ADDRESS                (0x76)

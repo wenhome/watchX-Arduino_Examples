@@ -1,0 +1,12 @@
+Adafruit Library
+https://github.com/adafruit/Adafruit_SSD1306
+https://github.com/adafruit/Adafruit-GFX-Library
+fix: Adafruit_SSD1306.h 
+     #define SSD1306_128_64
+//   #define SSD1306_128_32
+//   #define SSD1306_96_16
+
+Ascii Library
+https://github.com/greiman/SSD1306Ascii
+
+
